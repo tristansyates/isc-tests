@@ -1,0 +1,7 @@
+name: isc-tests
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - brainiak
