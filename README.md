@@ -1,4 +1,7 @@
 # Evaluating statistical tests for leave-one-out ISC analysis
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snastase/isc-tests/master)
+
 This repository contains code for evaluating how well different nonparametric statistical tests control false positive rates (FPRs) for leave-one-out intersubject correlation (ISC) analysis.
 
 #### References
