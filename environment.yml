@@ -4,4 +4,4 @@ channels:
 dependencies:
   - python
   - numpy
-  - brainiak
+  - brainiak::brainiak
